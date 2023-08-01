@@ -70,5 +70,5 @@ $ pnpm run dev
 
 ## Contact
 
-- Website [your-website.com](https://matiasc5.github.io/portfolio/)
-- GitHub [@your-username](https://github.com/MatiasC5)
+- Website [https://matiasc5.github.io/portfolio/](https://matiasc5.github.io/portfolio/)
+- GitHub [@MatiasC5](https://github.com/MatiasC5)
