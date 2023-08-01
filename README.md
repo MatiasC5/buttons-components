@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot]('./public/WM-Screenshots-20230801150550.png')
-![screenshot]('./public/WM-Screenshots-20230801150620.png')
+![]('./public//screenshot1.png')
+![]('./public/screenshot2.png')
 
 ### Built With
 
